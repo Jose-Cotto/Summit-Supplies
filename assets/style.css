@@ -14,7 +14,7 @@ h1 {
 }
 
 h2 {
-    font-size:28px;
+    font-size:30px;
 }
 
 h3 {
@@ -102,4 +102,37 @@ li {
     background-color:rgba(255, 255, 255, 0.30);
     color:black;
     cursor:pointer;
+}
+
+.services-container {
+    background-color: #EBEBEB;
+    padding: 40px 0;
+}
+
+.center {
+    text-align:center;
+}
+
+
+.main-content-container {
+    width:75%;
+    margin: 0 auto;
+}
+
+.services-title {
+    margin:40px 0;
+}
+.gear-selection-container {
+    margin:80px 0;
+    display:flex;
+}
+.img-left-container {
+    display:flex;
+    align-items:center;
+    width:50%;
+}
+
+.img-left-container img {
+    max-width:100%;
+    height:auto;
 }
